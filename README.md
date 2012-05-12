@@ -11,6 +11,6 @@ as they apply towards the Oracle Application Testing Suite, Oracle Database 11g,
 and any other publicly available Oracle products contained in the packages.
 
 ## Instructions
-* The documented steps to install OATS Linux on EC2 are here in the project [Wiki](./oats-linux-ec2.wiki/Home.md).
+* The documented steps to install OATS Linux on EC2 are here in the project [Wiki](./wiki/Oracle-Application-Testing-Suite-on-Linux).
 * An automated script is a consideration for future expansion of this project. 
 The Wiki serves as the requirements for any automated solution that can be contributed.
