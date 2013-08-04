@@ -1,7 +1,4 @@
-The May 2012 release of version 12.1.0.1 Oracle Application Testing Suite (OATS) now has a Linux package of the 
-OATS server. In the past the server application was only available for Windows. 
-In an effort to evaluate the Linux option, this project will prove these new install 
-procedures while allowing for a persistent OATS server to be hosted, and available on-demand in the Amazon EC2 environment.
+The August 2013 release of version 12.3.0.1.0 Oracle Application Testing Suite (OATS) now has a Linux package of the OATS server. In an effort to evaluate the Linux option, this project will prove these new install procedures while allowing for a persistent OATS server to be hosted, and available on-demand in the Amazon EC2 environment.
 
 ## Prerequisites
 * An account with [Amazon Web Services](http://aws.amazon.com/).
